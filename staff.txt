@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>HCE - Staff</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 20px;">
+
+    <nav style="background-color: #333; border-radius: 8px;">
+    <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
+        <li style="float: left;"><a href="Pagina web chida (1).html" style="display: block; color: #ff9999; text-align: center; padding: 14px 20px; text-decoration: none; font-weight: bold;">← Inicio</a></li>
+        
+        <li style="float: left;"><a href="pacientes.html" style="display: block; color: white; text-align: center; padding: 14px 20px; text-decoration: none;">Pacientes</a></li>
+        <li style="float: left;"><a href="doctores.html" style="display: block; color: white; text-align: center; padding: 14px 20px; text-decoration: none;">Doctores</a></li>
+        <li style="float: left;"><a href="historiales.html" style="display: block; color: white; text-align: center; padding: 14px 20px; text-decoration: none;">Historiales Médicos</a></li>
+        <li style="float: left;"><a href="staff.html" style="display: block; color: white; text-align: center; padding: 14px 20px; text-decoration: none;">Staff</a></li>
+    </ul>
+</nav>
+    <div style="margin-top: 20px; padding: 20px; background-color: #f1f1f1; border-radius: 8px; border-left: 5px solid #b3ecff;">
+        <h2>Personal de Apoyo y Administración</h2>
+        <p>Área de recursos humanos dedicada al personal de enfermería, intendencia, administración y seguridad del hospital.</p>
+        <p>Para reportes de asistencia o soporte técnico, contactar a la extensión <b>4500</b>.</p>
+    </div>
+
+</body>
+</html>
